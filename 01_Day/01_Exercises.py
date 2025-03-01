@@ -1,0 +1,12 @@
+print(3+4)
+print(3-4)
+print(3*4)
+print(3%4)
+print(3/4)
+print(3**4)
+print(3//4)
+
+print("Zoeth")
+print("Rodríguez Hernández")
+print("México")
+print("I am enjoying 30 days of python")
